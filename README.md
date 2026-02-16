@@ -12,13 +12,4 @@ I am a Software Developer with 2+ years of experience in the development, mainte
 ![](https://nirzak-streak-stats.vercel.app/?user=cuellar037&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cuellar037&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cuellar037&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cuellar037&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=cuellar037&icon=0&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
